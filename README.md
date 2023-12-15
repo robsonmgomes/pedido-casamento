@@ -1,2 +1,2 @@
 # pedido-casamento
- Site para pedido de casamento
+ Projeto de pedido de casamento de Priscila e Marília
