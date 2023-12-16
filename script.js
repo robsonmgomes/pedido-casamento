@@ -2,7 +2,7 @@ function sim() {
   alert("Você aceitou se casar comigo! TE AMO! :)");
   // redireciona para um URL após clicar no SIM
   //location.href = "https://cdn.drawception.com/images/panels/2017/3-19/be7269N5Tc-2.png";
-  location.href = "image.jpeg";
+  location.href = "main.html";
 }
 
 function desvia(btn) {
